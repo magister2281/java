@@ -2,7 +2,8 @@ public class calculator {
     static int add(int x, int y) {
         int sum = x + y;
         return sum ;
-    }static int subtract (int x , int y) {
+    }
+    static int subtract (int x , int y) {
         int sum =  x - y ;
         return sum;
     }
